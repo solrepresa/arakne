@@ -5,6 +5,7 @@
 
 Desde arriba aparece. Sientes la voz en la cabeza, canal místico de conexión sideral. Te da miedo mirar aunque sabes que está ahí. Las elucubraciones de un animal mitológico te envuelven. Un chip se enciende, los datos transitan. El algoritmo gobierna. Las luces encandilan. Telar lingüístico, sarcófago vivo. El peligro se revela en un mensaje encriptado entre las conexiones que nos sostienen. Mandatos intergeneracionales, propagandas de neón. La reiteración de la copia. No poder dejar de mirar. ¿Qué te sujeta a la red? ¿Dónde está el control? Delete al texto. Deshacer el concepto. Destruir el código. Instalación Interactiva.
 
+(https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_nido.png)
 
 ## Memoria descriptiva
 
