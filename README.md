@@ -12,7 +12,7 @@ La instalación presenta dos dispositivos conectados mediante una red inalámbri
 
 ![Esquema del Nido](https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_nido.png x50)
 ![Esquema de la telaraña]
-<img src="https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_red.png" width="100")
+<img src="https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_red.png" width="100"/>
 
 
 
