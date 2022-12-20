@@ -1,4 +1,4 @@
-# arakne
+# Arakne
 
 
 ## Sinopsis
@@ -10,11 +10,13 @@ Desde arriba aparece. Sientes la voz en la cabeza, canal místico de conexión s
 La instalación presenta dos dispositivos conectados mediante una red inalámbrica wifi de forma local: un nido ubicado en el centro de la habitación y una telaraña sobre uno de los laterales del salón. El nido presenta un módulo Nodemcu ESP32 conectado a un sensor de distancia ultrasónico HC-SR04, 7 series de luces leds (5 tiras de 5 lámparas monocromáticas de color blanco cálido y 2 tiras de 4 lámparas monocromáticas de colores verde y rojo) y una tira de led blanco frio modelo 3528. En su estado de reposo, el nido mantiene encendidas por las luces cálidas, pero cuando se activa por la presencia de un cuerpo, se apagan las luces cálidas y se encienden las luces frías generando un efecto estroboscópico. La telaraña tiene conectado un módulo Nodemcu ESP32 a un ordenador. Al recibir la señal del nido, se activan distintos estados. Por un lado, se disparan los sonidos desde la pc utilizando el puerto serie y un código en Processing. Por el otro, se enciende un sistema lumínico compuesto por 2 tiras de luces LED ultravioletas ultrabrillantes de 5mm y una tira de 1 Mt de luces LED Ultravioleta modelo CINUV5050.
 
 
-<img src = "https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_nido.png" width="400"/>
 Esquema del nido
+<img src = "https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_nido.png" width="400"/>
 
-<img src="https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_red.png" width="400"/>
+
 Esquema de la tela de araña
+<img src="https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_red.png" width="400"/>
+
 
 
 
