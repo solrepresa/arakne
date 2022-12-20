@@ -11,10 +11,12 @@ La instalación presenta dos dispositivos conectados mediante una red inalámbri
 
 
 Esquema del nido
+
 <img src = "https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_nido.png" width="400"/>
 
 
 Esquema de la tela de araña
+
 <img src="https://github.com/solrepresa/arakne/blob/main/Imagenes/esquema_red.png" width="400"/>
 
 
